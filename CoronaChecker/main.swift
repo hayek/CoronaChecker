@@ -15,11 +15,14 @@ var ssid: String {
 }
 
 let lastRun = (UserDefaults.standard.object(forKey: defaultsKey) as? Date) ?? Calendar.current.date(byAdding: .day, value: -1, to: Date())!
-
-if Calendar.current.isDateInYesterday(lastRun) {
+print("running...")
+if !Calendar.current.isDate(Date(), inSameDayAs: lastRun) {
+    print("doing it")
     if(doit()){
         UserDefaults.standard.set(Date(), forKey: defaultsKey)
     }
+}else{
+    print("already ran")
 }
 
 
