@@ -91,3 +91,4 @@ iOSInjectionProject/
 .DS_Store
 .gitignore
 *.xcworkspacedata
+/CoronaChecker.xcodeproj/xcshareddata/xcschemes/CoronaChecker.xcscheme
