@@ -2,7 +2,7 @@
 Corona Forum automatic launcher
 
 # Install:
-Download: https://github.com/hayek/CoronaChecker/releases/download/1.0/CoronaChecker.pkg
+Download: https://github.com/hayek/CoronaChecker/releases/download/v1.1/CoronaChecker.pkg
 
 Right click -> Open to install
 
