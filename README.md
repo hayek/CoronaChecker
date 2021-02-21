@@ -8,4 +8,5 @@ Right click -> Open to install
 
 # Usage:
 Each day and if you are at the office, the app will open the Corona Forum ready to be approved.
+The app uses the wifi name to detect if you are at the office. Lan alone will not work.
 
