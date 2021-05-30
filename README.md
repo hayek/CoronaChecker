@@ -10,7 +10,8 @@ Restart to apply changes
 
 # Uninstall:
 Open terminal and run:
-'sudo rm /Library/LaunchAgents/com.amir.corona.plist'
+
+```sudo rm /Library/LaunchAgents/com.amir.corona.plist```
 
 # Usage:
 Each day and if you are at the office, the app will open the Corona Forum ready to be approved.
