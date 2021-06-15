@@ -13,6 +13,8 @@ Open terminal and run:
 
 ```sudo rm /Library/LaunchAgents/com.amir.corona.plist```
 
+Restart
+
 # Usage:
 Each day and if you are at the office, the app will open the Corona Forum ready to be approved.
 The app uses the wifi name to detect if you are at the office. Lan alone will not work.
